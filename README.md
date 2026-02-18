@@ -9,19 +9,11 @@ I am a Chemistry major at Osaka Public University with a passion for solving com
 ### 🔍 What I'm up to:
 - **Current:** Deepening my knowledge in Statistical Mechanics & Deep Learning.
 - **Upcoming:** Research Internship at **RIKEN AIP** (April 2026).
-- **Learning:** Improving my English for technical research and mastering ""Node.js""
+- **Learning:** Improving my English for technical research and mastering Node.js & Flutter
 - **Goal:** Building a unicorn startup in the pharmaceutical sector.
 
 ### 🛠️ Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=rails,py,fastapi,docker,aws,flutter,ts,nextjs,postgres)
+![My Skills](https://skillicons.dev/icons?i=rails,py,fastapi,docker,aws,flutter,ts,nextjs,linux,html,pytorch,css,django,sklearn)
 
 ---
 
-### 📊 GitHub Stats:
-![Hiroto's GitHub stats](https://github-readme-stats.vercel.app/api?username=iharashuuji&show_icons=true&theme=radical)
-
----
-
-### 📫 How to reach me:
-- **LinkedIn:** [Your Link Here]
-- **Portfolio:** [Your Link Here]
