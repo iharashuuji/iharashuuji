@@ -2,7 +2,7 @@
 
 ### 🧪 Chemist | 💻 Software Engineer | 
 
-I am a Chemistry major at Osaka Public University with a passion for solving complex problems through code. I specialize in full-stack development and I'm currently focused on the intersection of AI and Drug Discovery.
+I am a Chemistry major at Osaka Metropolitan University with a passion for solving complex problems through code. I specialize in full-stack development and I'm currently focused on the intersection of AI and Drug Discovery.
 
 ---
 
